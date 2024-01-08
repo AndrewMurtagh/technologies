@@ -4,8 +4,11 @@ Hello world projects with interesting tech.
 
 - Protobuf
 - Prometheus
+- Redis
 - GraphQL
 - gRPC
+- Clickhouse
+- Kafka
 - Wasm
 - Open telemetry
 - Terraform
