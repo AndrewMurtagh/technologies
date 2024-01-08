@@ -1,0 +1,5 @@
+.terraform*
+terraform*
+.env
+terraform.tfvars
+localstack_provider_override.tf
